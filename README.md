@@ -1,6 +1,6 @@
 ## What is this?
 
-This projecy is just a simple form that lets the user select the type and the number of animal photos that will be fetched.
+This project is just a simple form that lets the user select the type and the number of animal photos that will be fetched from API.
 
 Created using React.
 
