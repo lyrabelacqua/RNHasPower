@@ -6,7 +6,7 @@ Created using React.
 
 ## Running the project
 
-Use the command `npm start` to run this project. 
+Use the commands `npm install` and `npm start` to run this project. 
 
 ## Warning!
 You need to enable cross-origin resources sharing (CORS) in your browser for this project to work properly. 
